@@ -1,4 +1,4 @@
-# Text-to-code basic using Tenserflow
+# Text-to-code basic using Tensorflow
 
 **Introduction**
 
